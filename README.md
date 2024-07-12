@@ -17,5 +17,6 @@ Personalized Recommendations: Generate optimized shopping lists that help users 
 Food Storage Tips: Provide tips on how to store different types of food to extend their shelf life.
 Secondary users include grocery stores and retailers who can benefit from insights into consumer purchasing patterns and reduce their own food waste.
 
-
+#Acknowlegemets
+to be completed
  
