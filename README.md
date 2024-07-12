@@ -1,2 +1,2 @@
 # EFood
-Reducing Food Waste with AI
+Predicting Food Waste with AI
