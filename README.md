@@ -12,7 +12,10 @@ Problem: Food waste is a significant global issue, contributing to environmental
 WP app is intented to be used in everyday household settings to manage food purchasing and consumption efficiently, aiming to predict and reduce food waste. Households can view predictions for the following on the items that going to be wasted. 
 Who are the users, what kinds of needs should be taken into account?
 The primary users are individual households looking to reduce food waste and manage their food consumption more efficiently.econdary users include grocery stores and retailers who can benefit from insights into consumer purchasing patterns and reduce their own food waste. Their needs can be classified as follows:
-Ease of Use: The app should be intuitive and easy to navigate, allowing users to quickly input data, track their food inventory, and receive recommendations
+Ease of Use: The app should be intuitive and easy to navigate, allowing users to quickly input data, track their food inventory, and receive recommendations.Suggest recipes and ideas for using leftovers to prevent them from being wasted.
+Personalized Recommendations: Generate optimized shopping lists that help users buy only what they need, minimizing over-purchasing.
+Food Storage Tips: Provide tips on how to store different types of food to extend their shelf life.
 Secondary users include grocery stores and retailers who can benefit from insights into consumer purchasing patterns and reduce their own food waste.
+
 
  
